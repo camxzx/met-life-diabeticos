@@ -1,0 +1,16 @@
+{
+  "name": "met-life-diabeticos",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "oxlint src",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "oxlint": "^1.76.0",
+    "vite": "^8.2.0"
+  }
+}
